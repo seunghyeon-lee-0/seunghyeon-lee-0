@@ -23,13 +23,6 @@
 
 > I am interested in understanding **customer behavior** and exploring how **LLMs and AI agents** can be used to simulate, analyze, and better understand human decision-making.
 
-<p>
-  <img src="https://img.shields.io/badge/Customer%20Behavior-Research-8A2BE2?style=flat-square">
-  <img src="https://img.shields.io/badge/LLM%20Simulation-Research-5B5FC7?style=flat-square">
-  <img src="https://img.shields.io/badge/AI%20Agents-Research-3B82F6?style=flat-square">
-  <img src="https://img.shields.io/badge/Human--AI%20Interaction-Research-14B8A6?style=flat-square">
-</p>
-
 ---
 
 ### 🛠 Tech Stack
