@@ -20,8 +20,7 @@
 ### 🔎 Research Interests
 
 > Exploring Human Behavior through Data & AI
-I am interested in understanding customer behavior and human decision-making through data-driven research. My current interests lie in LLM-based simulation, AI agents, and human–AI interaction, with a focus on exploring how emerging AI systems can model and interact with human behavior.
-
+I am interested in understanding customer behavior and human decision-making through data-driven research. My current interests lie in LLM-based simulation, AI agents, and human–AI interaction, with a focus on exploring how emerging AI systems can model and interact with human behavior. 
 I enjoy combining data analytics, behavioral research, and generative AI to investigate real-world problems and turn data into meaningful insights.
 
 <p>
